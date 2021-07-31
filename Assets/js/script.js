@@ -72,12 +72,12 @@ resultsEl.appendChild(chart);
 var questionBank;
 var answerBank;
 
-questionBank=["Pregunta1","Pregunta2"];
-answerQuestionBank=["0","1"];
-answer1=["111111","a"];
-answer2=["2111111","b"];
-answer3=["3111","c"];
-answer4=["4","d"];
+questionBank=["Choose the language used to manage styles.","Choose the language used to manage scripting.","Choose the technology used to communicate with browser."];
+answerQuestionBank=["0","1","2"];
+answer1=["CSS","English","External apis"];
+answer2=["Javascript","Javascript","Google Apis"];
+answer3=["PHP","Google Chrome", "Web Apis"];
+answer4=["Python","Microsoft Windows","Hardware Apis"];
 
 answersEl.children[0].setAttribute("id", "0");
 answersEl.children[1].setAttribute("id", "1");
