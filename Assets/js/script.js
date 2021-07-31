@@ -270,7 +270,7 @@ resetButtonEl.addEventListener("click", function(event) {
 var timeLeft;
 function countdown() {
     
-    timeLeft=10;
+    timeLeft=50;
     timerEl.setAttribute("style", "display: visible");
   
     // TODO: Use the `setInterval()` method to call a function to be executed every 1000 milliseconds
