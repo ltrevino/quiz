@@ -1,0 +1,46 @@
+li {
+    color: #333;
+    display: table;
+    padding: .2em .3em .2em .5em;
+    text-decoration: none;
+    background-color: lightskyblue;
+    margin:4px;
+    width:max-content;
+  }
+
+  li:hover {
+    color: #333;
+    display: table;
+    padding: .2em .3em .2em .5em;
+    text-decoration: none;
+    background-color: rgb(135, 250, 150);
+    margin:4px;
+    width:max-content;
+  }
+
+  .grades {
+    color: #333;
+    display: table;
+    padding: .2em .3em .2em .5em;
+    text-decoration: none;
+    background-color: rgb(135, 250, 150);
+    margin:4px;
+    width:max-content;
+  }
+
+  button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 5px;
+  }
+
+  .timer{
+      color:maroon;
+
+  }
